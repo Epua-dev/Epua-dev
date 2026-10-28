@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/cleia-canva.gif" alt="Cleia, a avatar da Epûa, dando boas-vindas" width="220" />
+  <img src="assets/cleia-integrada.gif" alt="Cleia, a avatar da Epûa, dando boas-vindas" width="170" />
 </p>
 
 <p align="center"><strong>Engenharia de software · Inteligência artificial · Dados · Estratégia</strong></p>
