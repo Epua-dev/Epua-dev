@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/epua-header.svg" alt="EPÛA — Tecnologia que flui" width="100%" />
+  <img src="assets/epua-logo-original.png" alt="Logo original da EPÛA" width="240" />
 </p>
 
 <p align="center">
