@@ -16,7 +16,7 @@ A Epûa conecta tecnologia às operações empresariais. Desenvolvemos plataform
 | Frente | Aplicação |
 | :--- | :--- |
 | **Engenharia de software** | APIs, aplicações web, sistemas empresariais e modernização de plataformas. |
-| **Inteligência artificial e agentes** | Aplicações com Python e Java, integração de múltiplas LLMs e execução de tarefas com permissões, avaliação e revisão. |
+| **Inteligência artificial e agentes** | Desenvolvimento de soluções de IA, orquestração de múltiplas LLMs, agentes de engenharia de software e automação integrada aos sistemas do negócio, com avaliação, rastreabilidade e controle de acesso. |
 | **Dados e inteligência financeira** | Pipelines, modelagem, indicadores e pesquisa aplicada a cenários e projeções com Quantitative Finance Engine. |
 | **Cloud e FinOps** | Arquitetura, automação de infraestrutura, observabilidade e gestão do consumo de tecnologia. |
 | **Segurança** | Modelagem de ameaças, proteção de APIs, Spring Security, práticas OWASP e testes de segurança com escopo autorizado. |
