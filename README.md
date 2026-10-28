@@ -81,6 +81,6 @@ A Cleia é a avatar da Epûa e faz parte da nossa experiência de atendimento. O
 
 ## Vamos conversar
 
-[Contato comercial](mailto:contato@epua-dev.com)
+[contato@epua-dev.com](mailto:contato@epua-dev.com) · [WhatsApp: (11) 97271-3216](https://wa.me/5511972713216)
 
 <p align="center"><sub>Fundada por Leticia Ferreira de Paula · CEO e fundadora</sub></p>
