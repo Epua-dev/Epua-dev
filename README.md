@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cleia-hq-dark-safe.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/cleia-hq-light-safe.gif" />
-    <img src="assets/cleia-hq-light-safe.gif" alt="Cleia, a avatar da Epûa, dando boas-vindas" width="220" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cleia-hq-dark-green.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/cleia-hq-light-green.gif" />
+    <img src="assets/cleia-hq-light-green.gif" alt="Cleia, a avatar da Epûa, dando boas-vindas" width="220" />
   </picture>
 </p>
 
